@@ -1396,57 +1396,6 @@ body {
 .cid-ro3dMZIUAw {
   background-image: url("../../../assets/images/southampton-ma-town-hall-sven-kielhorn-1-900x600.jpg");
 }
-.cid-ro3lPkWbCi {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-ro3lPkWbCi .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-ro3lPkWbCi H2 {
-  text-align: left;
-}
-.cid-ro3lw9cPwa {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-ro3lw9cPwa .counter-container {
-  color: #767676;
-}
-.cid-ro3lw9cPwa .counter-container ol {
-  margin-bottom: 0;
-  counter-reset: myCounter;
-}
-.cid-ro3lw9cPwa .counter-container ol li {
-  margin-bottom: 1rem;
-}
-.cid-ro3lw9cPwa .counter-container ol li {
-  list-style: none;
-  padding-left: .5rem;
-}
-.cid-ro3lw9cPwa .counter-container ol li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 40px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #149dcc;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  border-radius: 0;
-}
-.cid-ro3lw9cPwa .mbr-text {
-  text-align: left;
-}
 .cid-ro3tnWpATS {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1654,4 +1603,15 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
+}
+.cid-roKSj4Xtjk {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-roKSj4Xtjk .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-roKSj4Xtjk H2 {
+  text-align: left;
 }
